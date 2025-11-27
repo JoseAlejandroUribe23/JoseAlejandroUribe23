@@ -1,4 +1,4 @@
-![Aditya Kanoi Banner](https://github.com/JoseAlejandroUribe23/JoseAlejandroUribe23/blob/main/banner.png?raw=true)
+![JAUS](https://github.com/JoseAlejandroUribe23/JoseAlejandroUribe23/blob/main/banner.jpg?raw=true)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy  Jose Alejandro Uribe, creador de soluciones tecnológicas.</h2>
 
