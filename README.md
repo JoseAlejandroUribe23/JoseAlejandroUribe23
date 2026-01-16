@@ -62,11 +62,5 @@
 <p align="center">
 </p>
 
-### 🎖 &nbsp;Mis metas 
-
-[![](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)
-
-
-
 
 ### 🐍 &nbsp;"Cada componente que instalas, cada función que programas, define qué tan vulnerable o qué tan sólido será tu sistema."
