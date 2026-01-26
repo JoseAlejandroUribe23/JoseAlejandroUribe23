@@ -12,7 +12,7 @@
 ✍️ &nbsp;En mi tiempo libre, me dedico a probar vulnerabilidades actuales en redes controladas(wifi o bluetooth), lo que me permite mantenerme actualizado en las últimas amenazas cibernéticas y perfeccionar mis competencias en ethical hacking\
 💬 &nbsp;Estaré encantado de colaborar en proyectos tecnológicos, brindar asesoría técnica o conversar sobre temas de innovación, desarrollo y seguridad informática.\
 ✉️ &nbsp;No dude en escribirme un mensaje a mi correo electrónico josealejandrouribesilva@gmail.com !Atenderé su mensaje con la mayor prontitud!\
-📄 &nbsp;Echa un vistazo a mi [currículum](https://portafoli00.netlify.app/) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
